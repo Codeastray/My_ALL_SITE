@@ -34,7 +34,7 @@
                                 <li class="h4">測試帳密:</li>
                                 <li>帳號:Ray@gmail.com 密碼:33333</li>
                                 <li class="h4 text-primary"><a
-                                        href="https://funmoviex2022.000webhostapp.com/login.html">點我欣賞</a></li>
+                                        href="https://funmoviex2022.000webhostapp.com/startpage.html">點我欣賞</a></li>
                             </ul>
                         </div>
                         <div id="collapsePj" class="collapse mt-4" aria-labelledby="headingPj"
@@ -255,9 +255,9 @@
                                     </ul>
                                 </li>
                                 <li class="h4 text-primary"><a
-                                        href="https://funmoviex2022.000webhostapp.com/startpage.html"
+                                        href="https://html-lesson-900.000webhostapp.com/spa/spa0825.html"
                                         target="_blank">點我欣賞</a></li>
-                               </ul>
+                            </ul>
                         </div>
                         <div id="collapseThree" class="collapse mt-4" aria-labelledby="headingThree"
                             data-parent="#accordionExample">
