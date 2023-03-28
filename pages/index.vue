@@ -255,7 +255,7 @@
                                     </ul>
                                 </li>
                                 <li class="h4 text-primary"><a
-                                        href="https://funmoviex2022.000webhostapp.com/startpage.html"
+                                        href="https://funmoviex2022.000webhostapp.com/"
                                         target="_blank">點我欣賞</a></li>
                                </ul>
                         </div>
