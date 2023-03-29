@@ -47,9 +47,7 @@
                     data-target="#signInSuccess" @click="login_account = '', login_password = '', store.logInError = false">
                     登入
                 </button>
-                <button type="button" class="btn btn-outline-primary rounded-pill make_font">
-                    <NuxtLink to="/sign_up">註冊</NuxtLink>
-                </button>
+                <NuxtLink to="/sign_up" type="button" class="btn btn-outline-primary rounded-pill make_font">註冊</NuxtLink>
             </div>
             <p>會員系統小功能:請試用</p>
         </div>
@@ -93,28 +91,28 @@
     <div class="swiper mySwiper">
         <div class="swiper-wrapper">
             <div class="swiper-slide banner bg-cover" style="
-                                                                                          background-image: url(/job_01.png);
-                                                                                          height: 160px;
-                                                                                          background-repeat: no-repeat;
-                                                                                          background-position: center center;
-                                                                                          background-size: cover;
-                                                                                        ">
+                                                                                              background-image: url(/job_01.png);
+                                                                                              height: 160px;
+                                                                                              background-repeat: no-repeat;
+                                                                                              background-position: center center;
+                                                                                              background-size: cover;
+                                                                                            ">
             </div>
             <div class="swiper-slide banner bg-cover" style="
-                                                                                          background-image: url(/job_02.png);
-                                                                                          height: 160px;
-                                                                                          background-repeat: no-repeat;
-                                                                                          background-position: center center;
-                                                                                          background-size: cover;
-                                                                                        ">
+                                                                                              background-image: url(/job_02.png);
+                                                                                              height: 160px;
+                                                                                              background-repeat: no-repeat;
+                                                                                              background-position: center center;
+                                                                                              background-size: cover;
+                                                                                            ">
             </div>
             <div class="swiper-slide banner bg-cover" style="
-                                                                                          background-image: url(/job_03.png);
-                                                                                          height: 160px;
-                                                                                          background-repeat: no-repeat;
-                                                                                          background-position: center center;
-                                                                                          background-size: cover;
-                                                                                        ">
+                                                                                              background-image: url(/job_03.png);
+                                                                                              height: 160px;
+                                                                                              background-repeat: no-repeat;
+                                                                                              background-position: center center;
+                                                                                              background-size: cover;
+                                                                                            ">
             </div>
         </div>
         <div class="swiper-pagination"></div>

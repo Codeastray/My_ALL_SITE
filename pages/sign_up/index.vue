@@ -97,8 +97,11 @@
                         <input type="email" class="form-control" id="inputEmail" v-model="userData.email">
                         <div v-if="emailError" class="alert alert-danger" role="alert">Email格式不符</div>
                     </div>
-                    <button type="button"  class="btn btn-primary" data-toggle="modal"  data-target="#signUpSuccess"
-                        @click="submitForm(userData)">註冊</button>
+                    <div class="d-flex justify-content-between">
+                        <button type="button" class="btn btn-primary " data-toggle="modal" data-target="#signUpSuccess"
+                            @click="submitForm(userData)">註冊</button>
+                        <NuxtLink to="/" type="button" class="btn btn-outline-secondary ">返回首頁</NuxtLink>
+                    </div>
                     <!--Modal: modalConfirmDelete-->
                     <div v-if="showModal" class="modal fade" id="signUpSuccess" tabindex="-1" role="dialog"
                         aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -113,7 +116,8 @@
                                 <div class="display-4">註冊成功</div>
                                 <!--Footer-->
                                 <div class="modal-footer flex-center justify-content-center">
-                                    <NuxtLink to="/"><button class="btn  btn-outline-success" data-dismiss="modal">返回首頁</button></NuxtLink>
+                                    <NuxtLink to="/"><button class="btn  btn-outline-success"
+                                            data-dismiss="modal">返回首頁</button></NuxtLink>
                                 </div>
                             </div>
                         </div>
