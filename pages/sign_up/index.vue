@@ -151,6 +151,7 @@ const userData = reactive({
 const emailError = ref(false)
 const fillUp = ref(false)
 const showModal = ref(false);
+const passwordMismatch = ref(false)
 const checkEmailFormat = () => {
     const emailPattern = /^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/
     if (!emailPattern.test(userData.email)) {
@@ -161,7 +162,7 @@ const checkEmailFormat = () => {
         return true
     }
 }
-const passwordMismatch = ref(false)
+
 const comfirmpassword = () => {
     if (userData.password !== userData.confirmPassword) {
         passwordMismatch.value = true

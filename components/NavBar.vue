@@ -126,10 +126,12 @@ import { storeToRefs } from 'pinia';
 const store = useUserStore()
 const login_account = ref('')
 const login_password = ref('')
+const isNotClick = ref(true)
+const router = useRouter()
 const { matchUser } = store
 const { logInError } = storeToRefs(store)
-const router = useRouter()
-const isNotClick = ref(true)
+
+
 function hidemenu() {
     isNotClick.value = false
 }
