@@ -115,7 +115,7 @@
                             <li>管理員帳號:kkkkk 密碼:11111</li>
                             <li>高級會員帳號:jjjjj 密碼:22222</li>
                             <li>一般會員帳號:ppppp 密碼:33333</li>
-                            <li class="h4 text-primary"><a href="https://html-lesson-900.000webhostapp.com/member_system/member_login.html"
+                            <li class="h4 text-primary"><a href="https://ray-site.netlify.app/member_system/member_login.html"
                                     target="_blank">點我欣賞</a></li>
                         </ul>
                     </div>
@@ -182,7 +182,7 @@
                                     <li>可搜尋台中市全區三大速食業者所在地點</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="https://html-lesson-900.000webhostapp.com/homework2/fast_food.html"
+                            <li class="h4 text-primary"><a href="https://ray-site.netlify.app/homework2/fast_food.html"
                                     target="_blank">點我欣賞</a></li>
                         </ul>
                     </div>
@@ -249,7 +249,7 @@
                                     <li>畫面流暢，使用者友善</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="https://html-lesson-900.000webhostapp.com/spa/spa0825.html"
+                            <li class="h4 text-primary"><a href="https://ray-site.netlify.app/spa/spa0825.html"
                                     target="_blank">點我欣賞</a></li>
                         </ul>
                     </div>
@@ -304,7 +304,7 @@
                                     <li>地圖縮放搜索</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="https://html-lesson-900.000webhostapp.com/MapWeb/Homework3_gym.html"
+                            <li class="h4 text-primary"><a href="https://ray-site.netlify.app/MapWeb/Homework3_gym.html"
                                     target="_blank">點我欣賞</a></li>
                         </ul>
                     </div>
@@ -361,7 +361,7 @@
                                     <li>自動加總人數、總價</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="https://html-lesson-900.000webhostapp.com/LunchBox/LunchBoxOrder.html"
+                            <li class="h4 text-primary"><a href="https://ray-site.netlify.app/LunchBox/LunchBoxOrder.html"
                                     target="_blank">點我欣賞</a></li>
                         </ul>
                     </div>
