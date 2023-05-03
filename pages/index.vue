@@ -33,6 +33,7 @@
                             <li>--也可自行註冊帳密登入--</li>
                             <li class="h4 text-primary"><a target="_blank"
                                     href="https://funmoviex2022.000webhostapp.com/startpage.html">點我欣賞</a></li>
+                                    <li><a href="https://github.com/Codeastray/Fun_Movie" target="_blank">查看Github原始碼</a></li>
                         </ul>
                     </div>
                     <div id="collapsePj" class="collapse mt-4" aria-labelledby="headingPj" data-parent="#accordionExample">
@@ -117,7 +118,7 @@
                             <li>一般會員帳號:ppppp 密碼:33333</li>
                             <li class="h4 text-primary"><a href="http://raysite.tech/member_system/member_login.html"
                                     target="_blank">點我欣賞</a></li>
-                                    <li><a href="https://github.com/Codeastray/Fun_Movie" target="_blank">查看Github原始碼</a></li>
+                                    <li><a href="https://github.com/Codeastray/Fast_Food" target="_blank">查看Github原始碼</a></li>
                         </ul>
                     </div>
                     <div id="collapseOne" class="collapse mt-4" aria-labelledby="headingOne"
