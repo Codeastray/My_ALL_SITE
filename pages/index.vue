@@ -31,8 +31,8 @@
                             <li class="h4">測試帳密:</li>
                             <li>帳號:Ray@gmail.com 密碼:33333</li>
                             <li>--也可自行註冊帳密登入--</li>
-                            <li class="h4 text-primary"><a
-                                target="_blank"  href="https://funmoviex2022.000webhostapp.com/startpage.html">點我欣賞</a></li>
+                            <li class="h4 text-primary"><a target="_blank"
+                                    href="https://funmoviex2022.000webhostapp.com/startpage.html">點我欣賞</a></li>
                         </ul>
                     </div>
                     <div id="collapsePj" class="collapse mt-4" aria-labelledby="headingPj" data-parent="#accordionExample">
@@ -117,6 +117,7 @@
                             <li>一般會員帳號:ppppp 密碼:33333</li>
                             <li class="h4 text-primary"><a href="http://raysite.tech/member_system/member_login.html"
                                     target="_blank">點我欣賞</a></li>
+                            <li><a href="https://github.com/Codeastray/Fun_Movie" target="_blank">查看Github原始碼</a></li>
                         </ul>
                     </div>
                     <div id="collapseOne" class="collapse mt-4" aria-labelledby="headingOne"
@@ -184,6 +185,7 @@
                             </li>
                             <li class="h4 text-primary"><a href="http://raysite.tech/homework2/fast_food.html"
                                     target="_blank">點我欣賞</a></li>
+                            <li><a href="https://github.com/Codeastray/Fast_Food" target="_blank">查看Github原始碼</a></li>
                         </ul>
                     </div>
                     <div id="collapseTwo" class="collapse mt-4" aria-labelledby="headingTwo"
@@ -251,6 +253,7 @@
                             </li>
                             <li class="h4 text-primary"><a href="http://raysite.tech/spa/spa0825.html"
                                     target="_blank">點我欣賞</a></li>
+                            <li><a href="https://github.com/Codeastray/Spa" target="_blank">查看Github原始碼</a></li>
                         </ul>
                     </div>
                     <div id="collapseThree" class="collapse mt-4" aria-labelledby="headingThree"
@@ -306,6 +309,7 @@
                             </li>
                             <li class="h4 text-primary"><a href="http://raysite.tech/MapWeb/Homework3_gym.html"
                                     target="_blank">點我欣賞</a></li>
+                            <li><a href="https://github.com/Codeastray/MapWeb" target="_blank">查看Github原始碼</a></li>
                         </ul>
                     </div>
                     <div id="collapseFour" class="collapse mt-4" aria-labelledby="headingFour"
@@ -363,6 +367,7 @@
                             </li>
                             <li class="h4 text-primary"><a href="http://raysite.tech/LunchBox/LunchBoxOrder.html"
                                     target="_blank">點我欣賞</a></li>
+                            <li><a href="https://github.com/Codeastray/Lunch_Box" target="_blank">查看Github原始碼</a></li>
                         </ul>
                     </div>
                     <div id="collapseFive" class="collapse mt-4 " aria-labelledby="headingFive"
