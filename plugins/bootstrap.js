@@ -9,8 +9,5 @@ export default ({ app }) => {
     window.jQuery = jquery
     window.Popper = popper
     window.bootstrap = bootstrap
-
-    
-    
   }
 }
