@@ -184,7 +184,7 @@
                                     <li>可搜尋台中市全區三大速食業者所在地點</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="http://raysite.tech/homework2/fast_food.html"
+                            <li class="h4 text-primary"><a href="https://alltheworkdone.000webhostapp.com/homework2/fast_food.html"
                                     target="_blank">點我欣賞</a></li>
                             <li><a href="https://github.com/Codeastray/Fast_Food" target="_blank">查看Github原始碼</a></li>
                         </ul>
@@ -252,7 +252,7 @@
                                     <li>畫面流暢，使用者友善</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="http://raysite.tech/spa/spa0825.html"
+                            <li class="h4 text-primary"><a href="https://alltheworkdone.000webhostapp.com/spa/spa0825.html"
                                     target="_blank">點我欣賞</a></li>
                             <li><a href="https://github.com/Codeastray/Spa" target="_blank">查看Github原始碼</a></li>
                         </ul>
@@ -308,7 +308,7 @@
                                     <li>地圖縮放搜索</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="http://raysite.tech/MapWeb/Homework3_gym.html"
+                            <li class="h4 text-primary"><a href="https://alltheworkdone.000webhostapp.com/MapWeb/Homework3_gym.html"
                                     target="_blank">點我欣賞</a></li>
                             <li><a href="https://github.com/Codeastray/MapWeb" target="_blank">查看Github原始碼</a></li>
                         </ul>
@@ -366,7 +366,7 @@
                                     <li>自動加總人數、總價</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="http://raysite.tech/LunchBox/LunchBoxOrder.html"
+                            <li class="h4 text-primary"><a href="https://alltheworkdone.000webhostapp.com/LunchBox/LunchBoxOrder.html"
                                     target="_blank">點我欣賞</a></li>
                             <li><a href="https://github.com/Codeastray/Lunch_Box" target="_blank">查看Github原始碼</a></li>
                         </ul>
