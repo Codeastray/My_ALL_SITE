@@ -13,18 +13,18 @@
          id="navbarNavAltMarkup">
          <div class="navbar-nav">
             <NuxtLink @click="isNotClick = true" to="/" class="nav-link h5 active" data-toggle="tooltip"
-               data-placement="bottom" title="首頁"> Homepage<span class="sr-only">(current)</span></NuxtLink>
+               data-placement="bottom" title="首頁">首頁<span class="sr-only">(current)</span></NuxtLink>
             <NuxtLink @click="hidemenu" to="/tool" class="nav-link h5" data-toggle="tooltip" data-placement="bottom"
-               title="我的技能"> My tools
-               in IT</NuxtLink>
+              > 我的技能</NuxtLink>
             <NuxtLink @click="hidemenu" to="/certificate" class="nav-link h5" data-toggle="tooltip" data-placement="bottom"
-               title="還會些什麼?">What's
-               more</NuxtLink>
+              >附加技能</NuxtLink>
             <li v-show="isNotClick" class="nav-item dropdown h5" data-toggle="tooltip" data-placement="right" title="作品集">
                <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-expanded="false">
-                  My Collection
+                  作品集
                </a>
                <div class="dropdown-menu">
+                  <nuxt-link class="dropdown-item" @click.prevent="scrollTo('#headingTD')"
+                     style=" cursor:pointer ">旅遊紀錄網站</nuxt-link>
                   <nuxt-link class="dropdown-item" @click.prevent="scrollTo('#headingPj')"
                      style=" cursor:pointer ">電影隨選影片網站</nuxt-link>
                   <nuxt-link class="dropdown-item" @click.prevent="scrollTo('#headingOne')"
@@ -39,6 +39,8 @@
                      style=" cursor:pointer">訂便當系統</nuxt-link>
                </div>
             </li>
+            <NuxtLink @click="hidemenu" to="/androidkotlin" class="nav-link h5" data-toggle="tooltip" data-placement="bottom"
+              >Android App</NuxtLink>
          </div>
       </div>
       <div class="d-flex text-center flex-column justify-content-between mt-2">

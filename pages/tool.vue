@@ -45,6 +45,22 @@
          </div>
          <div class="col mb-4">
             <div class="card h-100">
+               <img src="~/assets/images/tailwind.png" class="card-img-top" alt="...">
+               <div class="card-body">
+                  <h5 class="card-title h3">Tailwind</h5>
+               </div>
+            </div>
+         </div>
+         <div class="col mb-4">
+            <div class="card h-100">
+               <img src="~/assets/images/firebase.png" class="card-img-top" alt="...">
+               <div class="card-body">
+                  <h5 class="card-title h3">Firebase</h5>
+               </div>
+            </div>
+         </div>
+         <div class="col mb-4">
+            <div class="card h-100">
                <img src="~/assets/images/bootstrap.png" class="card-img-top" alt="...">
                <div class="card-body">
                   <h5 class="card-title h3">Bootstrap</h5>
@@ -80,6 +96,14 @@
                <img src="~/assets/images/git.png" class="card-img-top" alt="...">
                <div class="card-body">
                   <h5 class="card-title h3">Git/Github</h5>
+               </div>
+            </div>
+         </div>
+         <div class="col mb-4">
+            <div class="card h-100">
+               <img src="~/assets/images/kraken.png" class="card-img-top" alt="...">
+               <div class="card-body">
+                  <h5 class="card-title h3">GitKraken</h5>
                </div>
             </div>
          </div>

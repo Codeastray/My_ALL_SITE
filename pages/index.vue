@@ -9,6 +9,90 @@
     <section>
         <div class="container make_font">
             <div class="accordion " id="accordionExample">
+                <div class=" row flex-row-reverse justify-content-center align-items-center">
+                    <div class=" col-md-6 sp" id="headingTD">
+                        <div class="bg-cover wow border shadow animate__fadeInUp " data-wow-duration="2s "
+                            data-toggle="collapse" data-target="#collapseTD" aria-expanded="true" aria-controls="collapseTD"
+                            style="cursor:pointer;background-image: url(/travel.png); height: 240px; border-radius: 10px; ">
+                        </div>
+                    </div>
+                    <div class="col-md-6 border  mt-3  wow animate__fadeInRight" data-wow-duration="2s">
+                        <ul class="list-unstyled">
+                            <h3>旅遊紀錄網站</h3>
+                            <ul>
+                                <li>記錄旅遊心得</li>
+                                <li>會員登入功能</li>
+                                <li>文章和圖片可上傳，刪除，修改 (執行CRUD)</li>
+                                <li>結合firebase的firestore、storage、authentication
+                                </li>
+                            </ul>
+                            <li>使用Tailwind JIT</li>
+                            <li class="h4">測試帳密:</li>
+                            <li>帳號:jack@gmail.com <br> 密碼:111111</li>
+                            <li>--也可自行註冊帳密登入--</li>
+                            <li class="h4 text-primary"><a target="_blank"
+                                    href="https://master--zingy-moxie-3e1e33.netlify.app/">點我欣賞</a></li>
+                            <li><a href="https://github.com/Codeastray/Vue-Project/tree/master"
+                                    target="_blank">查看Github原始碼</a></li>
+                        </ul>
+                    </div>
+                    <div id="collapseTD" class="collapse mt-4" aria-labelledby="headingTD" data-parent="#accordionExample">
+                        <h1 class="mt-0 text-center ">使用框架和語言</h1>
+                        <div class="card-body row ">
+                            <div class="col-md-6">
+                                <ul class="list-unstyled">
+                                    <li class="media">
+                                        <img src="~/assets/images/three.png" class="mr-3 border" alt="..."
+                                            style="width: 64px; height: 64px;">
+                                        <div class="media-body align-self-center">
+                                            <h5 class="mt-0 mb-1 ml-2  mt-2 "> HTML、CSS、JavaScript
+                                            </h5>
+                                        </div>
+                                    </li>
+                                    <li class="media my-4">
+                                        <img src="~/assets/images/vue.png" class="mr-3 border" alt="..."
+                                            style="width: 64px; height: 64px;">
+                                        <div class="media-body align-self-center">
+                                            <h5 class="mt-0 mb-1 ">Vue.js(Composition Api)</h5>
+                                        </div>
+                                    </li>
+                                    <li class="media">
+                                        <img src="~/assets/images/nuxt3.png" class="mr-3 border" alt="..."
+                                            style="width: 64px; height: 64px;">
+                                        <div class="media-body align-self-center">
+                                            <h5 class="mt-0 mb-1 ">Nuxt 3</h5>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <ul class="list-unstyled">
+                                    <li class="media">
+                                        <img src="~/assets/images/pinia.png" class="mr-3 border " alt="..."
+                                            style="width: 64px; height: 64px;">
+                                        <div class="media-body align-self-center">
+                                            <h5 class="mt-0 mb-1  ">Pinia</h5>
+                                        </div>
+                                    </li>
+                                    <li class="media my-4">
+                                        <img src="~/assets/images/tailwind.png" class="mr-3 border" alt="..."
+                                            style="width: 64px; height: 64px;">
+                                        <div class="media-body align-self-center ">
+                                            <h5 class="mt-0 mb-1  ">Tailwind(JIT)</h5>
+                                        </div>
+                                    </li>
+                                    <li class="media">
+                                        <img src="~/assets/images/firebase.png" class="mr-3 border" alt="..."
+                                            style="width: 64px; height: 64px;">
+                                        <div class="media-body align-self-center">
+                                            <h5 class="mt-0 mb-1 ">Firebase</h5>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class=" row  justify-content-center align-items-center">
                     <div class=" col-md-6 sp" id="headingPj">
                         <div class="bg-cover wow border shadow animate__fadeInUp " data-wow-duration="2s "
@@ -116,7 +200,8 @@
                             <li>管理員帳號:kkkkk 密碼:11111</li>
                             <li>高級會員帳號:jjjjj 密碼:22222</li>
                             <li>一般會員帳號:ppppp 密碼:33333</li>
-                            <li class="h4 text-primary"><a href="https://alltheworkdone.000webhostapp.com/member_system/member_login.html"
+                            <li class="h4 text-primary"><a
+                                    href="https://alltheworkdone.000webhostapp.com/member_system/member_login.html"
                                     target="_blank">點我欣賞</a></li>
                             <li><a href="https://github.com/Codeastray/Member_System" target="_blank">查看Github原始碼</a></li>
                         </ul>
@@ -184,7 +269,8 @@
                                     <li>可搜尋台中市全區三大速食業者所在地點</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="https://alltheworkdone.000webhostapp.com/homework2/fast_food.html"
+                            <li class="h4 text-primary"><a
+                                    href="https://alltheworkdone.000webhostapp.com/homework2/fast_food.html"
                                     target="_blank">點我欣賞</a></li>
                             <li><a href="https://github.com/Codeastray/Fast_Food" target="_blank">查看Github原始碼</a></li>
                         </ul>
@@ -308,7 +394,8 @@
                                     <li>地圖縮放搜索</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="https://alltheworkdone.000webhostapp.com/MapWeb/Homework3_gym.html"
+                            <li class="h4 text-primary"><a
+                                    href="https://alltheworkdone.000webhostapp.com/MapWeb/Homework3_gym.html"
                                     target="_blank">點我欣賞</a></li>
                             <li><a href="https://github.com/Codeastray/MapWeb" target="_blank">查看Github原始碼</a></li>
                         </ul>
@@ -366,7 +453,8 @@
                                     <li>自動加總人數、總價</li>
                                 </ul>
                             </li>
-                            <li class="h4 text-primary"><a href="https://alltheworkdone.000webhostapp.com/LunchBox/LunchBoxOrder.html"
+                            <li class="h4 text-primary"><a
+                                    href="https://alltheworkdone.000webhostapp.com/LunchBox/LunchBoxOrder.html"
                                     target="_blank">點我欣賞</a></li>
                             <li><a href="https://github.com/Codeastray/Lunch_Box" target="_blank">查看Github原始碼</a></li>
                         </ul>
@@ -415,7 +503,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
         </div>
-    </section>
-</template>
+    </div>
+</section></template>
