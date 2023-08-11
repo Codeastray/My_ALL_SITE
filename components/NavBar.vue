@@ -1,7 +1,7 @@
 <template>
    <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top ">
       <div class="d-flex flex-column">
-         <a class="navbar-brand" href="#"><img src="~/assets/images/Ray_site_logo.png" alt="" class="logo_box"></a>
+         <a class="navbar-brand" href="https://ray-site.netlify.app/"><img src="~/assets/images/Ray_site_logo.png" alt="" class="logo_box"></a>
          <h6>此網頁使用 <span class="text-success">Nuxt 3</span> 製作</h6>
          <a href="https://github.com/Codeastray/My_ALL_SITE" target="_blank">查看Github原始碼</a>
       </div>
